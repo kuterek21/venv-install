@@ -3,4 +3,4 @@ pip list
 apt-get install python3-venv
 python3 -m venv [ PROJECT_NAME ]
 source [ PROJECT_NAME ]/bin/activate
-//deactivate
+deactivate
